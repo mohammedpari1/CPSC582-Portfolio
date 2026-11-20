@@ -17,3 +17,12 @@ A responsive static website for Mohammed Pari's Fall 2026 Human–Computer Inter
 
 ## Academic note
 This site distinguishes documented individual contributions from team contributions. Read all first-person reflections before submission and revise any statement that does not reflect your experience. Visual hero/interface mockups are illustrative, while images in `assets/` are sourced from the provided reports and class activities.
+
+## Check-in 2 individual-contribution update
+Added a clearly marked individual contribution panel to Project 1, a personal design-learning panel to Project 2 (without claiming unverified coding ownership), and an individual-work introduction to the eight class activities.
+
+## Check-in 2 — Project 2 reflection
+The Project 2 section now foregrounds personal design analysis of learner agency, feedback, error handling, and testing evidence from the submitted team report. The report does not identify who individually implemented each feature; do not claim sole authorship without confirmation.
+
+## Check-in 2 update — individual contribution
+Project 2 now highlights Mohammed’s confirmed personal work in brainstorming, sketches, interface design, prototype development, testing, and demo/presentation. The site distinguishes those contributions from collective feature ownership and discloses the team’s use of Claude.
